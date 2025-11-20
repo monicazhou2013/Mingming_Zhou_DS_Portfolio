@@ -1,4 +1,4 @@
-# MingZe — Data Science Portfolio
+# Mingming Zhou — Data Science Portfolio
 
 Welcome! I’m Mingming Zhou, a biostatistician with four years of experience transitioning into a Data Scientist role.  
 My work focuses on experiment design, A/A–A/B testing, machine learning modeling, and biotech analytics.
