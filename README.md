@@ -9,12 +9,13 @@ https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/3300119515183161
 |---|---|---|---|---|
 | ![](https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg) | ![](https://image.tmdb.org/t/p/w500/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg) | ![](https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg) | ![](https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg) | ![](https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg) |
 | **Favorite 1** | **Favorite 2** | **Favorite 3** | **Favorite 4** | **Favorite 5** |
-## 🎯 Recommendations for target user 198 (Top 10)
+
+## 🎯 Recommendations Showcase for Target User 198 (Top 10)
 
 | | | | | |
 |---|---|---|---|---|
-| ![](https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg) | ![](https://image.tmdb.org/t/p/w500/ea6HPVTlGa0MmtTrPud0UnP9wh.jpg) | ![](https://image.tmdb.org/t/p/w500/kOymD1rChAMykmDVEzJpIh4OYS7.jpg) | ![](https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg) | ![](https://image.tmdb.org/t/p/w500/v49q7AMR3pB4M762woWB1NYMCLF.jpg) || ![](https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg) | ![](https://image.tmdb.org/t/p/w500/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg) | ![](https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg) | ![](https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg) | ![](https://image.tmdb.org/t/p/w500/1OCHR9z9k7go669AsShOkTj4CFb.jpg) |
-
+| ![](https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg) | ![](https://image.tmdb.org/t/p/w500/ea6HPVTlGa0MmtTrPud0UnP9wh.jpg) | ![](https://image.tmdb.org/t/p/w500/kOymD1rChAMykmDVEzJpIh4OYS7.jpg) | ![](https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg) | ![](https://image.tmdb.org/t/p/w500/v49q7AMR3pB4M762woWB1NYMCLF.jpg) |
+| ![](https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg) | ![](https://image.tmdb.org/t/p/w500/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg) | ![](https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg) | ![](https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg) | ![](https://image.tmdb.org/t/p/w500/1OCHR9z9k7go669AsShOkTj4CFb.jpg) |
 
 ## Summary
 This project builds a movie recommendation system using explicit user ratings. It includes exploratory analysis, collaborative filtering with matrix factorization (ALS), evaluation, and a poster-enriched recommendation showcase using TMDB metadata.
