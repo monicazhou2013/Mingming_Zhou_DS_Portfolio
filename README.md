@@ -38,9 +38,9 @@ The two-tower model is to demonstrate a modern retrieval-oriented recommender ar
 - Conclusion and future work
 
 ## How to Run
-1. Open the Databricks notebook (link above) and run sections in order.
-2. Run TMDB enrichment (local / Google Colab) to produce `tmdb_posters.csv`.
-3. Upload `tmdb_posters.csv` back to Databricks and join with `links` to construct poster URLs.
+1. Open the Databricks notebook (links above) and run sections in order.
+2. Run TMDB enrichment (local / Google Colab) to produce `tmdb_posters.csv`(in 01_ALS_Baseline).
+3. Upload `tmdb_posters.csv` back to Databricks and join with `links` to construct poster URLs(in 01_ALS_Baseline).
 
 ## Notes
 - Databricks notebook access may require workspace permissions.
