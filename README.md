@@ -2,7 +2,12 @@
 # Movie Recommendation System (ALS + TMDB Posters)
 
 **Databricks Notebook:**  
+
+**01_ALS_Baseline**
 https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/3300119515183161?o=7474643825711867#command/7835941542853496
+
+**02_Two_Tower**
+https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/2414811799385756?o=7474643825711867#command/5383454029142809
 
 ## 🎯 Recommendations Showcase for Target User 198 (Top 10)
 
@@ -19,9 +24,10 @@ https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/3300119515183161
 | **Favorite 1** | **Favorite 2** | **Favorite 3** | **Favorite 4** | **Favorite 5** |
 
 ## Summary
-This project builds a movie recommendation system using explicit user ratings. It includes exploratory analysis, collaborative filtering with matrix factorization (ALS), evaluation, and a poster-enriched recommendation showcase using TMDB metadata.
+This project implements both a matrix-factorization (ALS) baseline and a neural two-tower recommender trained with BPR to demonstrate different recommendation paradigms.
+The ALS project includes exploratory analysis, collaborative filtering with matrix factorization (ALS), evaluation (**Model metric:** ALS achieved **RMSE = 0.8768** on a held-out test set), and a poster-enriched recommendation showcase using TMDB metadata.
+The two-tower model is to demonstrate a modern retrieval-oriented recommender architecture. The model learns to rank relevant items higher rather than predict explicit ratings. Training converged steadily (BPR loss ↓ from 0.69 to 0.16 over 10 epochs).
 
-**Model metric:** ALS achieved **RMSE = 0.8768** on a held-out test set.
 
 ## Contents
 - EDA: rating distribution, user activity, long-tail item popularity, cold-start quantification
@@ -42,6 +48,5 @@ This project builds a movie recommendation system using explicit user ratings. I
 
 ## Future Work
 - Run ALS Top-N inference in an all-purpose Spark environment
-- Add ranking metrics: Precision@K / Recall@K / NDCG
-- Hyperparameter tuning (rank, regParam)
-- Temporal splits and time-aware modeling
+- Add ranking metrics: Precision@K / Recall@K on both models
+- Make models comparison
