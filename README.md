@@ -1,7 +1,7 @@
 
-# Movie Recommendation System (ALS + TMDB Posters)
+# Movie Recommendation System (ALS -> Two - Tower -> RAG ChatBot)
 
-**Databricks Notebook:**  
+**Movie Recommendation:**  
 
 **01_ALS_Baseline**
 https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/3300119515183161?o=7474643825711867#command/7835941542853496
