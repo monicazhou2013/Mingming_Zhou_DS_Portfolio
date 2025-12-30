@@ -27,10 +27,13 @@ https://colab.research.google.com/drive/1hjVG_Lsf460V443lkaGb8FHDJ_8SSCZ0#scroll
 | **Favorite 1** | **Favorite 2** | **Favorite 3** | **Favorite 4** | **Favorite 5** |
 
 ## Summary
+
 **01_ALS_Baseline**
 Implemented a matrix-factorization (ALS) baseline model. It includes exploratory analysis, collaborative filtering with matrix factorization (ALS), evaluation (**Model metric:** ALS achieved **RMSE = 0.8768** on a held-out test set), and a poster-enriched recommendation showcase using TMDB metadata.
+
 **02_Two_Tower**
 Demonstrated a modern retrieval-oriented recommender architecture. The model learns to rank relevant items higher rather than predict explicit ratings. Training converged steadily (BPR loss ↓ from 0.69 to 0.16 over 10 epochs).
+
 **03_RAG_ChatBot**
 Implemented a RAG-style movie chatbot that uses sentence embeddings and FAISS for semantic retrieval of movies, enriched with genres, tags, ratings, and posters.
 
