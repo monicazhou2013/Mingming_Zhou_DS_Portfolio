@@ -10,7 +10,7 @@ https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/3300119515183161
 https://dbc-a83b6333-0c2f.cloud.databricks.com/editor/notebooks/2414811799385756?o=7474643825711867#command/5383454029142809
 
 **03_RAG_ChatBot**
-https://colab.research.google.com/drive/1hjVG_Lsf460V443lkaGb8FHDJ_8SSCZ0#scrollTo=I6t6F7sRgj99&uniqifier=1
+https://colab.research.google.com/drive/1hjVG_Lsf460V443lkaGb8FHDJ_8SSCZ0#scrollTo=D4LQYm16tUdm&uniqifier=1
 
 ## 🎯 Recommendations Showcase for Target User 198 (Top 10)
 
